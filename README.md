@@ -1,7 +1,5 @@
 # **Graph Exercises**
 
-[dsa-graphs-starter-code.zip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a91f13db-02a0-4611-b8dd-95bb05724c37/dsa-graphs-starter-code.zip)
-
 Implement the following on the Graph class. The Node and Graph constructor has been provided for you in **_graph.js_**
 
 ## **addVertex / addVertices**
@@ -224,5 +222,3 @@ https://www.hackerrank.com/challenges/torque-and-development/problem
 ## **evenTree**
 
 https://www.hackerrank.com/challenges/even-tree/problem
-
-## Solution
